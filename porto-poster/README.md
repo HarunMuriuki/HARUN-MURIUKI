@@ -1,6 +1,6 @@
 # porto-poster
 
-Hackathon-poster-themed homepage: a pile of draggable, subtly 3D-tilting
+Homepage: a pile of draggable, subtly 3D-tilting
 cards over a big poster headline. Click a card to jump to its section
 (About / Skills / Projects / Reel / Contact) on the same page; drag any
 card around just because it's satisfying.
